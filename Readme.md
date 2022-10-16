@@ -10,16 +10,15 @@
 
 # 使い方
 
-起動すると下記のようなテキスト入力欄が表示されます。
+起動すると２つのテキスト入力欄が表示されます。
 
 上にはダウンロードしたい動画のURL（Youtube、ニコニコ動画、etc...）を入力してください。
 
 下には動画ファイルとして保存するときの名前を入力してください。
 
-<img title="" src="file:///C:/Users/keisuke/AppData/Roaming/marktext/images/2022-10-16-10-14-25-image.png" alt="" data-align="inline" width="389">
-
 ダウンロードが完了した場合はポップアップにより通知されます。
 
+GoogleColab版は[こちら](https://colab.research.google.com/drive/1nD-3jL1Ksc7twzny7butHUmL5B9I_GBb?usp=sharing)
 # 注意書き
 
 exeファイルを含むためウイルス対策ソフトによっては有害なファイルとしてブロックすることがありますが、至って健全なプログラムであるため強行突破してください。
