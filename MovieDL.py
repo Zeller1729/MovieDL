@@ -12,7 +12,8 @@ if __name__=='__main__':
     layout = [
             [sg.Text('動画のURL   '), sg.Input()],
             [sg.Text('保存する名前'), sg.Input()],
-            [sg.Button('決定'), sg.Button('終了')]]
+            [sg.Button('決定'), sg.Button('終了')]
+            ]
 
     window = sg.Window('動画ダウンローダー', layout)
 
